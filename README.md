@@ -12,3 +12,5 @@
 ├── Results                       # Simulation Results
 └── README.md                     # Readme file
 ``` 
+## Sim_functions
+There are two main functions in the Sim_functions file. The first function `logistic_auc`
