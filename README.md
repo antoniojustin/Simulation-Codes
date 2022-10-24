@@ -1,4 +1,4 @@
-# HospitalizationImpact
+# Hospitalization Impact
  Currently holding codes for the impact of knowledge of hospitalization on mortality predictions project
  
  ## Repository Structure
