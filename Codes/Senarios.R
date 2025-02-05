@@ -20,3 +20,7 @@ R4 = Simulation(hosp_coef_1 = 1.6, hosp_coef_2 = 0.4, tp1 = 0.2, tp2 = 0.2)
 R4.1 = Simulation(B = 1000, hosp_coef_1 = 1.6, hosp_coef_2 = 0.4, tp1 = 0.2, tp2 = 0.2)
 R4.2 = Simulation(B = 1000, patients_num = 10000, hosp_coef_1 = 1.6, hosp_coef_2 = 0.4, tp1 = 0.2, tp2 = 0.2)
 
+set.seed(100)
+R5 = Simulation(hosp_coef_1 = 1.6, hosp_coef_2 = 0.4, tp1 = 0.2, tp2 = 0.2)
+R5.1 = Simulation(B = 10000, hosp_coef_1 = 1.6, hosp_coef_2 = 0.4, tp1 = 0.2, tp2 = 0.2)
+R5.2 = Simulation(B = 10000, patients_num = 10000, hosp_coef_1 = 1.6, hosp_coef_2 = 0.4, tp1 = 0.2, tp2 = 0.2)
